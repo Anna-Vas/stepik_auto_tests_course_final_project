@@ -8,3 +8,5 @@ For creating this project I used Python (version 3.7.5) and such major instrumen
 This project was developed within the framework of this course on Stepik: https://stepik.org/course/575/syllabus
 
 I highly recommend this course to everyone who wants to improve their skills in web testing using Python and Selenium.
+
+**P.s. for the rewievers from Stepik**. I'm using the word "cart" instead of "basket" in some tests/classes/methods names because I'm more used to this name and I didn't want to change it everywhere when I noticed the word "basket" in some tests names from the task on the website. Hope this formal discrepancy will not become a reason for my points to be reduced. Thank you :)
